@@ -1,0 +1,18 @@
+{
+  "name": "talk-nuxt-hidden-gems-nuxt-nation",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.7",
+    "@slidev/theme-default": "^0.21.2",
+    "@slidev/theme-seriph": "^0.21.3"
+  },
+  "devDependencies": {
+    "@iconify-json/logos": "^1.1.37",
+    "@iconify-json/mdi": "^1.1.54"
+  }
+}
