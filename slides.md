@@ -101,8 +101,7 @@ Delightful Debugging
 
 Delightful Debugging
 
-
-<img src="nuxt-console-issue-4720.png" class="h-24 mt-16">
+<img src="/nuxt-console-issue-4720.png" class="h-24 mt-16">
 
 <h2 v-click class="text-center mt-8">Is this a security risk!?</h2>
 
